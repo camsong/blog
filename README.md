@@ -7,3 +7,4 @@
 * [传统 Ajax 已死，Fetch 永生](https://github.com/camsong/blog/issues/2)
 * [Immutable 详解及 React 中实践](https://github.com/camsong/blog/issues/3)
 * [抛弃 jQuery，拥抱原生 JavaScript](https://github.com/camsong/blog/issues/4)
+* [CSS Modules 详解及 React 中实践](https://github.com/camsong/blog/issues/5)
