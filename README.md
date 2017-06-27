@@ -10,3 +10,5 @@
 * [CSS Modules 详解及 React 中实践](https://github.com/camsong/blog/issues/5)
 * [React 最佳实践](https://github.com/camsong/blog/issues/6)
 * [精读前后端渲染之争](https://github.com/camsong/blog/issues/8)
+
+**长期招聘前端 Web 开发工程师，请邮件简历 [neosoyn@gmail.com](mailto:neosoyn@gmail.com)**
