@@ -3,6 +3,7 @@
 
 > 关注 Javascript, ES6, React, Redux 等
 
+* [从 VS Code 的历史中可以学到的经验](https://github.com/camsong/blog/issues/15)
 * [解读 React Conf 2021](https://github.com/camsong/blog/issues/14)
 * [100万行代码是怎样的体验？](https://github.com/camsong/blog/issues/13)
 * [给2019前端的5个建议](https://github.com/camsong/blog/issues/11)
