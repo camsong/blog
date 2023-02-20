@@ -3,6 +3,7 @@
 
 > 关注 Javascript, ES6, React, Redux 等
 
+* [我们应该如何用好 AI？从 ChatGPT 到编程语言、大数据、前端](https://github.com/camsong/blog/issues/16)
 * [从 VS Code 的历史中可以学到的经验](https://github.com/camsong/blog/issues/15)
 * [解读 React Conf 2021](https://github.com/camsong/blog/issues/14)
 * [100万行代码是怎样的体验？](https://github.com/camsong/blog/issues/13)
